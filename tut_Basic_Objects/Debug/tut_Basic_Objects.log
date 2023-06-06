@@ -1,0 +1,16 @@
+﻿  FifthScene.cpp
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(28,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(29,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(30,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(35,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(36,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(37,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(38,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(46,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(48,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(50,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(52,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(54,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(56,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\tut_Basic_Objects\FifthScene.cpp(58,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  tut_Basic_Objects.vcxproj -> C:\Users\Admin\Documents\VS_OpenGL_tutorial\OpenGL_Animation\Debug\tut_Basic_Objects.exe
